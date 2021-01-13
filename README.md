@@ -1,4 +1,4 @@
-# jubilant-enigma
+# C-program
 
 这是 大一下 高级语言与程序设计 课程实践周项目汇总。
 
